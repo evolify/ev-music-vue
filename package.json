@@ -1,0 +1,22 @@
+{
+  "name": "music",
+  "version": "0.1.0",
+  "main": "./main.js",
+  "description": "evolify-music",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "vue": "^2.1.10",
+    "vue-router": "^2.2.0"
+  },
+  "devDependencies": {
+    "electron-reload": "^1.1.0"
+  },
+  "scripts": {},
+  "keywords": [
+    "evolify",
+    "wolf",
+    "music"
+  ],
+  "author": "evolify",
+  "license": "ISC"
+}
